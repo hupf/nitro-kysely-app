@@ -1,4 +1,4 @@
-import { findUsers } from "../repositories/user-repository";
+import { findUsers } from "../repositories/user";
 
 interface UsersGetManyInteractorParams {
   name?: string;

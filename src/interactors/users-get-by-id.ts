@@ -1,4 +1,4 @@
-import { findUserById } from "../repositories/user-repository";
+import { findUserById } from "../repositories/user";
 
 interface UsersGetByIdInteractorParams {
   id: number;
